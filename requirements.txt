@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 langchain
 gradio
 requests
 matplotlib
+os
+=======
+langchain
+gradio
+requests
+>>>>>>> 4a6244f9abba43bb6626ea8b3a623efe453a7e6d
